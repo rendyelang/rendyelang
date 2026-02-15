@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo0YWs1ZThtb295a3V1MXg3OGtmN2MzbGM1cTYydDFrd2R3OTIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200" height="200"/>
+<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
+</div>
 
   <h1>
     <a href="https://git.io/typing-svg">
